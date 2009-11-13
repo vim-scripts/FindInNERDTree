@@ -1,0 +1,12 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=2850
+
+!!! THE CURRENT VERSION OF NERDTree ALREADY HAS THIS FEATURE !!!
+
+I.e. you don't need this plugin :)
+
+---
+
+FindInNERDTree is a NERDTree vimscript #1658 plugin that recursively opens the tree to the location of the current buffer. If you jump around source code using ctags, trying to open the tree to where you are can be quite a chore. With this script you can hit a key combination and have the tree immediately pop open to your location.
+
+The script is also hosted on GitHub:
+http://github.com/dmcinnes/FindInNERDTree
